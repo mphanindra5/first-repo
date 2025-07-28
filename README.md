@@ -1,2 +1,2 @@
 # first-repo
-Test
+Hello, GitHub! This is my first edit.
